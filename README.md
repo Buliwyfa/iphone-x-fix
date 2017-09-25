@@ -18,19 +18,19 @@ Screenshots
 
 #### Animated Preview
 
-![animated preview](Screenshots/preview.gif "animated preview")
+![animated preview](screenshots/preview.gif "animated preview")
 
 #### No Notch Hidden
 
-![no notch preview](Screenshots/no-notch.png "no notch preview")
+![no notch preview](screenshots/no-notch.png "no notch preview")
 
 #### Left Notch Hidden
 
-![left notch preview](Screenshots/left-notch.png "left notch preview")
+![left notch preview](screenshots/left-notch.png "left notch preview")
 
 #### Right Notch Hidden
 
-![right notch preview](Screenshots/right-notch.png "right notch preview")
+![right notch preview](screenshots/right-notch.png "right notch preview")
 
 
 Installation
