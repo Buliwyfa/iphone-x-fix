@@ -1,0 +1,1 @@
+html.iphone-x-fix-left::before,html.iphone-x-fix-right::before{content:'';width:32px;height:100vh;position:fixed;top:0;background-color:#000}html.iphone-x-fix-left{margin:0;padding:0 0 0 32px}html.iphone-x-fix-left::before{left:0}html.iphone-x-fix-right{margin:0;padding:0 32px 0 0}html.iphone-x-fix-right::before{right:0}
